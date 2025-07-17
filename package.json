@@ -10,9 +10,10 @@
     "lib",
     "index.js",
     "browser_build",
-    "bower.json"
+    "bower.json",
+    "HISTORY.md"
   ],
-  "version": "1.0.9",
+  "version": "1.0.9-sp1",
   "author": "Christian Amor Kvalheim <christkv@gmail.com>",
   "contributors": [],
   "repository": "mongodb/js-bson",
